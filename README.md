@@ -4,8 +4,8 @@
 This project performs data preparation, general analysis, and basic visualization on the dataset titled **"Main indicators of livestock development in the Republic of Kazakhstan" for 2024**. The project follows steps defined in Assignment 4.2 and allows users to dynamically select any worksheet from the Excel file for analysis.
 
 ## Authors
-
 Kim Diana, Toktarova Diana
+
 ---
 
 ##  Features

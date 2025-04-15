@@ -55,6 +55,6 @@ def analyze_livestock_sheet(file_path, sheet_name):
     else:
         print("❗Нет числовых столбцов для построения графиков.")
 
-# 🔧 Пример вызова
+#  Пример вызова
 file_path = r"C:\Users\tokta\proj1\proj1\livestock_kazakhstan_2024.xlsx"
 analyze_livestock_sheet(file_path, "14.1")
